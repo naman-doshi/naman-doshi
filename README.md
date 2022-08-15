@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=noxtrifle&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=naman-doshi&color=blueviolet)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naman-doshi&show_icons=true)
 
 <!--
 **noxtrifle/noxtrifle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
