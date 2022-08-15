@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=naman-doshi&color=blueviolet)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naman-doshi&show_icons=true)
 
 <!--
