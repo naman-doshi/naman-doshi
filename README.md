@@ -18,7 +18,7 @@ CS & Mathematics at **UNSW** (Mike Cannon-Brookes Scholar). Incoming **Quantitat
 
 #### Selected Awards
 
-- **MIT Battlecode:** 1st / 600+ teams (2026, [repo](https://github.com/awu7/battlecode-2026)); 6th + Most Adaptive Strategy (2025, [repo](https://github.com/naman-doshi/battlecode-2025))
+- **MIT Battlecode:** 1st / 600+ teams (2026, [repo](https://github.com/awu7/battlecode-2026)); 5th + Most Adaptive Strategy (2025, [repo](https://github.com/naman-doshi/battlecode-2025))
 - **Simon Marais Mathematics Competition:** 3rd in Australia, 15th globally (2025)
 - **IMC Prosperity:** Top 0.5% internationally — peaked 2nd / 12,600 (2025), 42nd / 13,500 solo (2024)
 - **Regeneron ISEF** Team Australia (2025) · **Australian Informatics Olympiad** Gold & IOI Selection Schools (2024) · **Citadel Terminal Asia** 5th, seeded 1st (2025) · **AMT** Informatics Problemsetter
